@@ -24,7 +24,7 @@
       ],
       "mark": {"type": "geoshape"},
       "encoding": {
-        "color": {"field": "Endangered Forests", "type": "quantitative"},
+        "color": {"field": "Endangered Forests", "scale":{"scheme": "greens"}, "type": "quantitative"},
         "tooltip": [
           {
             "field": "properties.STATE_NAME",
