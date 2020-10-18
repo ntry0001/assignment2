@@ -1,0 +1,70 @@
+[
+ {
+   "B": "Type",
+   "C": "Count"
+ },
+ {
+   "B": "Fragmentation",
+   "C": "31"
+ },
+ {
+   "B": "Small remnants",
+   "C": "6"
+ },
+ {
+   "B": "Isolation - disconnection",
+   "C": "6"
+ },
+ {
+   "B": "Disease",
+   "C": "17"
+ },
+ {
+   "B": "Forest loss - agriculture",
+   "C": "37"
+ },
+ {
+   "B": "Forest loss - urbanisation",
+   "C": "21"
+ },
+ {
+   "B": "Forest loss - mining",
+   "C": "6"
+ },
+ {
+   "B": "Grazing pressures",
+   "C": "33"
+ },
+ {
+   "B": "Fire pressures",
+   "C": "33"
+ },
+ {
+   "B": "Human pressure",
+   "C": "19"
+ },
+ {
+   "B": "Loss in ecological function",
+   "C": "9"
+ },
+ {
+   "B": "Weeds",
+   "C": "38"
+ },
+ {
+   "B": "Feral animals",
+   "C": "28"
+ },
+ {
+   "B": "Climatic effects",
+   "C": "24"
+ },
+ {
+   "B": "Hydrological changes",
+   "C": "25"
+ },
+ {
+   "B": "Forestry operations",
+   "C": "13"
+ }
+]
