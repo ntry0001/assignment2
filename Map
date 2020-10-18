@@ -7,7 +7,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ntry0001/homeworkMap/master/AusStatesTOPO.json",
+        "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/AusStatesTOPO.json",
         "format": {"type": "topojson", "feature": "AusStates"}
       },
       "transform": [
@@ -15,7 +15,7 @@
           "lookup": "properties.STATE_NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/ntry0001/homeworkMap/master/OnlyStatesSum.json"
+              "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/OnlyStatesSum.json"
             },
             "key": "State",
             "fields": ["Endangered Forests"]
