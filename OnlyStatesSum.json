@@ -1,0 +1,42 @@
+[
+ {
+   "State": "Northern Territory",
+   "State_short": "NT",
+   "Endangered Forests": 1
+ },
+ {
+   "State": "New South Wales",
+   "State_short": "NSW",
+   "Endangered Forests": 25
+ },
+ {
+   "State": "Queensland",
+   "State_short": "Qld",
+   "Endangered Forests": 12
+ },
+ {
+   "State": "South Australia",
+   "State_short": "SA",
+   "Endangered Forests": 5
+ },
+ {
+   "State": "Victoria",
+   "State_short": "Vic",
+   "Endangered Forests": 8
+ },
+ {
+   "State": "Western Australia",
+   "State_short": "WA",
+   "Endangered Forests": 6
+ },
+ {
+   "State": "Australian Capital Territory",
+   "State_short": "ACT",
+   "Endangered Forests": 1
+ },
+ {
+   "State": "Tasmania",
+   "State_short": "Tas",
+   "Endangered Forests": 1
+ }
+]
