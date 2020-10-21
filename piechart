@@ -1,0 +1,13 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Fuck this",
+  "data": {
+        "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/threatenedforestsreasonscount.json"},
+  "mark": "arc",
+  "encoding": {
+    "theta": {"field": "C" ,"title": "Count" , "type": "quantitative"},
+    "color": {"field": "B","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}},
+    "tooltip":[{"field": "B", "title":"Type"},{"field": "C", "title":"Count"}]
+  },
+  "view": {"stroke": null}
+}
