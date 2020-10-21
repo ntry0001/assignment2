@@ -6,7 +6,9 @@
   "padding": 5,
   "data": {
   "url":"https://raw.githubusercontent.com/ntry0001/assignment2/master/StateYearCountGOOOD.csv"},
-"mark":{"type":"line"},
+"mark":{"type":"line", "point":{ "filled":true
+
+}},
 "encoding":{
   "x":{
     "field":"Year",
@@ -20,12 +22,9 @@
   "color":{
     "field":"State",
     "type":"nominal"
-  }
-},
-"tooltip":[
-  {"field":"State", "type": "nominal", "format": ","}, 
-  {"field":"Total", "type": "quantitative"}
-]
+  },
+  "tooltip":[{"field":"State"},{"field":"Year"},{"field":"Total"}]
+}
 }
 
 
