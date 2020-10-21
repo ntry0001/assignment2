@@ -1,0 +1,1642 @@
+[
+ {
+   "State": "ACT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "Qld",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "Tas",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "ACT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "ACT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "State": "ACT",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "State": "Vic",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "State": "Tas",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "State": "Tas",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "State": "Tas",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "State": "ACT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2007,
+   "Value": 1
+ },
+ {
+   "State": "Tas",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "State": "ACT",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "State": "ACT",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "NT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2016,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "NSW",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "SA",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "WA",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "State": "ACT",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "State": "NSW",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "State": "Qld",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "State": "Tas",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "State": "Vic",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "State": "WA",
+   "Year": 2006,
+   "Value": null
+ }
+]
