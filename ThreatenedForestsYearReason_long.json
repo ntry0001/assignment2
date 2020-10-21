@@ -1,0 +1,3282 @@
+[
+ {
+   "Reason": "Climatic effects",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2012,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2012,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2004,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2004,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2010,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2010,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2008,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2008,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2002,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2002,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2007,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2007,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2007,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2007,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2007,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2007,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2000,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2000,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2014,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2014,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2001,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2001,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2015,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2015,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2011,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2011,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2016,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2016,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2016,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2016,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2016,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2005,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2005,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2009,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2009,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2013,
+   "Value": null
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2013,
+   "Value": 1
+ },
+ {
+   "Reason": "Climatic effects",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Disease",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Feral animals",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Fire pressures",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - agriculture",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Forest loss - mining",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Forest loss - urbanisation",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Forestry operations",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Fragmentation",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Grazing pressures",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Human pressure",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Hydrological changes",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Isolation - disconnection",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Loss in ecological function",
+   "Year": 2006,
+   "Value": 1
+ },
+ {
+   "Reason": "Small remnants",
+   "Year": 2006,
+   "Value": null
+ },
+ {
+   "Reason": "Weeds",
+   "Year": 2006,
+   "Value": 1
+ }
+]
