@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "State count per year",
+  "width": 600,
+  "height": 500,
+  "padding": 5,
+  "data": {
+  "url":"https://raw.githubusercontent.com/ntry0001/assignment2/master/StateYearCountGOOOD.csv"},
+"mark":{"type":"line"},
+"encoding":{
+  "x":{
+    "field":"Year",
+    "type":"temporal",
+    "timeUnit": "year"
+  },
+  "y":{
+    "field":"Total",
+    "type":"quantitative"
+  },
+  "color":{
+    "field":"State",
+    "type":"nominal"
+  }
+},
+"tooltip":[
+  {"field":"State", "type": "nominal", "format": ","}, 
+  {"field":"Total", "type": "quantitative"}
+]
+}
+
+
+ 
