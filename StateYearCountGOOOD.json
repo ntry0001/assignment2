@@ -1,197 +1,296 @@
 [
  {
    "State": "ACT",
-   "Year": 2006,
-   "count": 1
- },
- {
-   "State": "NSW",
    "Year": 2000,
-   "count": 2
- },
- {
-   "State": "NSW",
-   "Year": 2001,
-   "count": 3
- },
- {
-   "State": "NSW",
-   "Year": 2005,
-   "count": 3
- },
- {
-   "State": "NSW",
-   "Year": 2006,
-   "count": 1
- },
- {
-   "State": "NSW",
-   "Year": 2008,
-   "count": 1
- },
- {
-   "State": "NSW",
-   "Year": 2009,
-   "count": 2
- },
- {
-   "State": "NSW",
-   "Year": 2010,
-   "count": 1
- },
- {
-   "State": "NSW",
-   "Year": 2011,
-   "count": 4
- },
- {
-   "State": "NSW",
-   "Year": 2013,
-   "count": 2
- },
- {
-   "State": "NSW",
-   "Year": 2014,
-   "count": 1
- },
- {
-   "State": "NSW",
-   "Year": 2015,
-   "count": 4
- },
- {
-   "State": "NSW",
-   "Year": 2016,
-   "count": 1
+   "Count": 0,
+   "Total": 0
  },
  {
    "State": "NT",
-   "Year": 2011,
-   "count": 1
+   "Year": 2000,
+   "Count": 0,
+   "Total": 0
+ },
+ {
+   "State": "Tas",
+   "Year": 2000,
+   "Count": 0,
+   "Total": 0
  },
  {
    "State": "Qld",
    "Year": 2000,
-   "count": 1
+   "Count": 1,
+   "Total": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2000,
+   "Count": 1,
+   "Total": 1
+ },
+ {
+   "State": "Vic",
+   "Year": 2000,
+   "Count": 1,
+   "Total": 1
+ },
+ {
+   "State": "NSW",
+   "Year": 2000,
+   "Count": 2,
+   "Total": 2
+ },
+ {
+   "State": "WA",
+   "Year": 2000,
+   "Count": 3,
+   "Total": 3
  },
  {
    "State": "Qld",
    "Year": 2001,
-   "count": 2
+   "Count": 2,
+   "Total": 3
+ },
+ {
+   "State": "NSW",
+   "Year": 2001,
+   "Count": 3,
+   "Total": 5
  },
  {
    "State": "Qld",
    "Year": 2002,
-   "count": 1
- },
- {
-   "State": "Qld",
-   "Year": 2005,
-   "count": 1
- },
- {
-   "State": "Qld",
-   "Year": 2006,
-   "count": 1
- },
- {
-   "State": "Qld",
-   "Year": 2008,
-   "count": 1
- },
- {
-   "State": "Qld",
-   "Year": 2009,
-   "count": 1
- },
- {
-   "State": "Qld",
-   "Year": 2011,
-   "count": 3
- },
- {
-   "State": "Qld",
-   "Year": 2012,
-   "count": 1
- },
- {
-   "State": "SA",
-   "Year": 2000,
-   "count": 1
- },
- {
-   "State": "SA",
-   "Year": 2007,
-   "count": 1
- },
- {
-   "State": "SA",
-   "Year": 2010,
-   "count": 1
- },
- {
-   "State": "SA",
-   "Year": 2013,
-   "count": 1
- },
- {
-   "State": "SA",
-   "Year": 2014,
-   "count": 1
+   "Count": 1,
+   "Total": 4
  },
  {
    "State": "Tas",
    "Year": 2004,
-   "count": 1
+   "Count": 1,
+   "Total": 1
  },
  {
-   "State": "Vic",
-   "Year": 2000,
-   "count": 1
+   "State": "Qld",
+   "Year": 2005,
+   "Count": 1,
+   "Total": 5
+ },
+ {
+   "State": "NSW",
+   "Year": 2005,
+   "Count": 3,
+   "Total": 8
+ },
+ {
+   "State": "ACT",
+   "Year": 2006,
+   "Count": 1,
+   "Total": 1
+ },
+ {
+   "State": "NSW",
+   "Year": 2006,
+   "Count": 1,
+   "Total": 9
+ },
+ {
+   "State": "Qld",
+   "Year": 2006,
+   "Count": 1,
+   "Total": 6
  },
  {
    "State": "Vic",
    "Year": 2006,
-   "count": 1
+   "Count": 1,
+   "Total": 2
+ },
+ {
+   "State": "SA",
+   "Year": 2007,
+   "Count": 1,
+   "Total": 2
+ },
+ {
+   "State": "NSW",
+   "Year": 2008,
+   "Count": 1,
+   "Total": 10
+ },
+ {
+   "State": "Qld",
+   "Year": 2008,
+   "Count": 1,
+   "Total": 7
  },
  {
    "State": "Vic",
    "Year": 2008,
-   "count": 1
+   "Count": 1,
+   "Total": 3
+ },
+ {
+   "State": "Qld",
+   "Year": 2009,
+   "Count": 1,
+   "Total": 8
+ },
+ {
+   "State": "NSW",
+   "Year": 2009,
+   "Count": 2,
+   "Total": 12
  },
  {
    "State": "Vic",
    "Year": 2009,
-   "count": 3
+   "Count": 3,
+   "Total": 6
+ },
+ {
+   "State": "NSW",
+   "Year": 2010,
+   "Count": 1,
+   "Total": 13
+ },
+ {
+   "State": "SA",
+   "Year": 2010,
+   "Count": 1,
+   "Total": 3
  },
  {
    "State": "Vic",
    "Year": 2010,
-   "count": 1
+   "Count": 1,
+   "Total": 7
+ },
+ {
+   "State": "NT",
+   "Year": 2011,
+   "Count": 1,
+   "Total": 1
+ },
+ {
+   "State": "Qld",
+   "Year": 2011,
+   "Count": 3,
+   "Total": 11
+ },
+ {
+   "State": "NSW",
+   "Year": 2011,
+   "Count": 4,
+   "Total": 17
+ },
+ {
+   "State": "Qld",
+   "Year": 2012,
+   "Count": 1,
+   "Total": 12
+ },
+ {
+   "State": "SA",
+   "Year": 2013,
+   "Count": 1,
+   "Total": 4
  },
  {
    "State": "Vic",
    "Year": 2013,
-   "count": 1
- },
- {
-   "State": "WA",
-   "Year": 2000,
-   "count": 3
+   "Count": 1,
+   "Total": 8
  },
  {
    "State": "WA",
    "Year": 2013,
-   "count": 1
+   "Count": 1,
+   "Total": 4
+ },
+ {
+   "State": "NSW",
+   "Year": 2013,
+   "Count": 2,
+   "Total": 19
+ },
+ {
+   "State": "NSW",
+   "Year": 2014,
+   "Count": 1,
+   "Total": 20
+ },
+ {
+   "State": "SA",
+   "Year": 2014,
+   "Count": 1,
+   "Total": 5
  },
  {
    "State": "WA",
    "Year": 2014,
-   "count": 1
+   "Count": 1,
+   "Total": 5
  },
  {
    "State": "WA",
    "Year": 2015,
-   "count": 1
+   "Count": 1,
+   "Total": 6
+ },
+ {
+   "State": "NSW",
+   "Year": 2015,
+   "Count": 4,
+   "Total": 24
+ },
+ {
+   "State": "NSW",
+   "Year": 2016,
+   "Count": 1,
+   "Total": 25
+ },
+ {
+   "State": "Vic",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 8
+ },
+ {
+   "State": "WA",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 6
+ },
+ {
+   "State": "Tas",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 1
+ },
+ {
+   "State": "SA",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 5
+ },
+ {
+   "State": "ACT",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 1
+ },
+ {
+   "State": "NT",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 1
+ },
+ {
+   "State": "Qld",
+   "Year": 2016,
+   "Count": 0,
+   "Total": 12
  }
 ]
