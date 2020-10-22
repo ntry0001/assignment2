@@ -12,10 +12,49 @@
     "field":"Year",
     "type":"temporal",
     "timeUnit": "year"
-  },
+  },{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Endangered Forests by State",
+  "projection": {"type": "equirectangular"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ntry0001/homeworkMap/master/AusStatesTOPO.json",
+        "format": {"type": "topojson", "feature": "AusStates"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.STATE_NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/ntry0001/homeworkMap/master/OnlyStatesSum.json"
+            },
+            "key": "State",
+            "fields": ["Endangered Forests"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape"},
+      "encoding": {
+        "color": {"field": "Endangered Forests","scale":{"scheme": "greens"}, "type": "quantitative"},
+        "tooltip": [
+          {
+            "field": "properties.STATE_NAME",
+            "type": "nominal",
+            "title": "State"
+          },
+          {"field": "Endangered Forests", "type": "quantitative"}
+        ]
+      }
+    }
+  ]
+}
   "y":{
     "field":"Total",
-    "type":"quantitative"
+    "type":"quantitative"    "type":"quantitative"
+
   },
   "color":{
     "field":"State",
