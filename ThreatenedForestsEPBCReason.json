@@ -1,0 +1,197 @@
+[
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Climatic effects",
+   "Count": 15
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Disease",
+   "Count": 11
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Feral animals",
+   "Count": 14
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Fire pressures",
+   "Count": 19
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Forest loss - agriculture",
+   "Count": 21
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Forest loss - mining",
+   "Count": 4
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Forest loss - urbanisation",
+   "Count": 14
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Forestry operations",
+   "Count": 8
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Fragmentation",
+   "Count": 18
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Grazing pressures",
+   "Count": 17
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Human pressure",
+   "Count": 12
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Hydrological changes",
+   "Count": 11
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Isolation - disconnection",
+   "Count": 3
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Loss in ecological function",
+   "Count": 7
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Small remnants",
+   "Count": 3
+ },
+ {
+   "EPBC.listing": "Critically Endangered",
+   "Reason": "Weeds",
+   "Count": 21
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Climatic effects",
+   "Count": 9
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Disease",
+   "Count": 5
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Feral animals",
+   "Count": 13
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Fire pressures",
+   "Count": 13
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Forest loss - agriculture",
+   "Count": 16
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Forest loss - mining",
+   "Count": 2
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Forest loss - urbanisation",
+   "Count": 7
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Forestry operations",
+   "Count": 5
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Fragmentation",
+   "Count": 13
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Grazing pressures",
+   "Count": 15
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Human pressure",
+   "Count": 7
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Hydrological changes",
+   "Count": 13
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Isolation - disconnection",
+   "Count": 3
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Loss in ecological function",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Small remnants",
+   "Count": 3
+ },
+ {
+   "EPBC.listing": "Endangered",
+   "Reason": "Weeds",
+   "Count": 16
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Disease",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Feral animals",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Fire pressures",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Grazing pressures",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Hydrological changes",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Loss in ecological function",
+   "Count": 1
+ },
+ {
+   "EPBC.listing": "Vulnerable",
+   "Reason": "Weeds",
+   "Count": 1
+ }
+]
