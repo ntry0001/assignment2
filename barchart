@@ -1,24 +1,26 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": { "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.json"},
-  "width": {"step": 12},
+  "data": { "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.csv"},
+  "width": 500,
+  "height": {"step": 40},
   "mark": "bar",
   "encoding": {
-    "column": {
-      "field": "Reason", "type": "quantitative", "spacing": 10
-    },
-    "y": {
-  "field": "Count",
-      "title": "population",
-      "axis": {"grid": false}
+    "row": {
+      "field": "Reason", "type": "nominal", "spacing": 10
     },
     "x": {
-      "field": "EPBC.listing",
+      "aggregate":"sum",
+  "field": "Count",
+      "title": "Count",
+      "axis": {"grid": false}
+    },
+    "y": {
+      "field": "EPBC",
       "axis": {"title": ""}
     },
     "color": {
-      "field": "EPBC.listing",
-      "scale": {"range": ["#675193", "#ca8861"]}
+      "field": "EPBC"
+      
     }
   },
   "config": {
