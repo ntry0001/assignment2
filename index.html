@@ -9,18 +9,21 @@
 </head>
 <body>
 
-<div id="graph1"></div>
-    
-<div id="graph2"></div>    
+<h2> Blah </h2>
+<div id="graph1" class = "vega-embedhas-actions"></div>
+<h2> Blah </h2>    
+<div id="graph2" class = "vega-embedhas-actions"></div>    
 
 <script type="text/javascript">
-  var spec1 = "https://raw.githubusercontent.com/ntry0001/assignment2/master/Map";
-  vegaEmbed('#graph1', spec1).then(function(result) {
+var spec1 = "https://raw.githubusercontent.com/ntry0001/assignment2/master/Map";
+    
+var spec2 = "https://raw.githubusercontent.com/ntry0001/assignment2/master/StackedLines";
+    
+vegaEmbed('#graph1', spec1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
     
-var spec2 = "https://raw.githubusercontent.com/ntry0001/assignment2/master/StackedLines";
-  vegaEmbed('#graph2', spec2).then(function(result) {
+vegaEmbed('#graph2', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
     
