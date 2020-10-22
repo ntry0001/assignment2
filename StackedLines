@@ -9,6 +9,12 @@
 "mark":{"type":"line", "point":{ "filled":true
 
 }},
+"transform": [{"calculate":"year(datum.Year)", "as":"year"}],
+ "selection": {
+    "AusState": {
+      "type": "multi", "fields": ["State"], "bind": "legend"
+    }
+  },
 "encoding":{
   "x":{
     "field":"Year",
@@ -23,7 +29,11 @@
     "field":"State",
     "type":"nominal"
   },
-  "tooltip":[{"field":"State"},{"field":"Year"},{"field":"Total"}]
+  "tooltip":[{"field":"State"},{"field":"year"},{"field":"Total"}],
+  "opacity": {
+      "condition": {"selection": "AusState", "value": 1},
+      "value": 0.2
+    }
 }
 }
 
