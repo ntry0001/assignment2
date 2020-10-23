@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/CHOLERAJASNA.csv"
+  },
+  "width": 600,
+  "height": 400,
+  "mark": {
+    "type": "circle",
+    "opacity": 0.8,
+    "stroke": "black",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "axis": {"grid": false}
+    },
+    "y": {"field": "Reason", "type": "nominal", "axis": {"title": ""}},
+    "size": {
+      "field": "Count",
+      "type": "quantitative",
+      "title": "Count",
+      "legend": {"clipHeight": 50},
+      "scale": {"rangeMax": 1000}
+    },
+    "color": {"field": "Reason", "type": "nominal", "legend": null}
+  }
+}
