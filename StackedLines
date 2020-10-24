@@ -14,11 +14,13 @@
   "x":{
     "field":"Year",
     "type":"temporal",
-    "timeUnit": "year"
+    "timeUnit": "year",
+    "title":"Year"
   },
   "y":{
     "field":"Total",
-    "type":"quantitative"
+    "type":"quantitative",
+    "title":"Total"
   },
   "color":{
     "field":"State",
