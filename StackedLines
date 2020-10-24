@@ -10,11 +10,6 @@
 
 }},
 "transform": [{"calculate":"year(datum.Year)", "as":"year"}],
- "selection": {
-    "AusState": {
-      "type": "multi", "fields": ["State"], "bind": "legend"
-    }
-  },
 "encoding":{
   "x":{
     "field":"Year",
@@ -28,13 +23,49 @@
   "color":{
     "field":"State",
     "type":"nominal"
+  }
+},
+"layer":[
+  {
+    "mark": "line", "selection": {
+    "AusState": {
+      "type": "multi", "fields": ["State"], "bind": "legend"
+    }
   },
+    "encoding" : {
+      
   "tooltip":[{"field":"State"},{"field":"year"},{"field":"Total"}],
   "opacity": {
       "condition": {"selection": "AusState", "value": 1},
       "value": 0.2
     }
-}
+    }
+  },
+  {
+    "mark":{"type":"text"},"point":{ "filled":true
+
+},
+  "encoding":{
+    "text":{
+      "field":"Total"
+    },   "opacity": {
+      "condition": {"selection": "AusState", "value": 1},
+      "value": 0.2
+    }
+  }
+  },
+  {
+    "mark":"point",
+    "point":{ "filled":true
+  },
+  "encoding": {
+      "opacity": {
+      "condition": {"selection": "AusState", "value": 1},
+      "value": 0.2
+    }
+  }}
+],
+"config": {"text": {"align": "left", "dx": 7, "dy": 8}}
 }
 
 
