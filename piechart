@@ -4,8 +4,8 @@
   "data": {
         "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/threatenedforestsreasonscount.json"},
   "mark": "arc",
-  "width": 200,
-  "height": 200,
+  "width": 100,
+  "height": 100,
   "encoding": {
     "theta": {"field": "C" ,"title": "Count" , "type": "quantitative"},
     "color": {"field": "B","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}, "legend":{
