@@ -2,21 +2,24 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": { "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.csv"},
   "width": 500,
-  "height": {"step": 40},
+  "height": {"step": 10},
   "mark": "bar",
+  "autosize":{
+    "type":"fit", "contains": "padding"
+  },
   "encoding": {
     "row": {
-      "field": "Reason", "type": "nominal", "spacing": 10
+      "field": "Reason", "type": "nominal",  "spacing": 10
     },
     "x": {
       "aggregate":"sum",
   "field": "Count",
       "title": "Count",
-      "axis": {"grid": false}
+      "axis": {"grid": false, "labelFontSize":10}
     },
     "y": {
       "field": "EPBC",
-      "axis": {"title": ""}
+      "axis": {"title": "", "labelFontSize":10}
     },
     "color": {
       "field": "EPBC"
