@@ -8,7 +8,9 @@
   "height": 300,
   "encoding": {
     "theta": {"field": "C" ,"title": "Count" , "type": "quantitative"},
-    "color": {"field": "B","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}},
+    "color": {"field": "B","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}, "legend":{
+      "orient": "bottom", "direction": "vertical"
+    }},
     "tooltip":[{"field": "B", "title":"Type"},{"field": "C", "title":"Count"}]
   },
   "view": {"stroke": null}
