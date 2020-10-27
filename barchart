@@ -22,9 +22,16 @@
       "axis": {"title": "", "labelFontSize":10}
     },
     "color": {
-      "field": "EPBC"
+      "field": "EPBC",
+      "legend":false
       
-    }
+    },
+    "tooltip":[
+      {"field":"Reason"},
+      {"field":"EPBC"},
+      {"field":"Count"}
+    
+    ]
   },
   "config": {
     "view": {"stroke": "transparent"},
