@@ -25,6 +25,6 @@
       "legend": {"clipHeight": 50},
       "scale": {"rangeMax": 1000}
     },
-    "color": {"field": "Reason", "type": "nominal", "legend": null}
+    "color": {"field": "Reason", "type": "nominal", "legend": null, "scale":{"scheme": "category20b"}}
   }
 }
