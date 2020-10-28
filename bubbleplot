@@ -6,15 +6,16 @@
   "width": 600,
   "height": 400,"transform": [{"calculate":"year(datum.Year)", "as":"year"}],
   "mark": {
-    "type": "circle",
+    "type": "point",
     "opacity": 0.8,
     "stroke": "black",
-    "strokeWidth": 1
+    "strokeWidth": 1,
+    "fill":"black"
   },
   "encoding": {
     "x": {
       "field": "Year",
-      "type": "temporal",
+      "type": "temporal","scale":{"domainMin":936684800000},
       "axis": {"grid": false}
     },
     "y": {"field": "Reason", "type": "nominal", "axis": {"title": ""}},
@@ -23,9 +24,9 @@
       "type": "quantitative",
       "title": "Count",
       "legend": {"clipHeight": 50},
-      "scale": {"rangeMax": 1000}
+      "scale": {"rangeMax": 500}
     },
-    "color": {"field": "Reason", "type": "nominal", "legend": null, "scale":{"scheme": "category20b"}},
+    "color": {"field": "Reason", "type": "nominal", "legend": null, "scale":{"scheme": "greys"}},
     "tooltip":[
       {"field":"Reason"},
       {"field":"year"},
