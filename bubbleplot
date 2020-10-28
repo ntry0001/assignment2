@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/CHOLERAJASNA.csv"
   },
   "width": 600,
-  "height": 400,
+  "height": 400,"transform": [{"calculate":"year(datum.Year)", "as":"year"}],
   "mark": {
     "type": "circle",
     "opacity": 0.8,
@@ -25,6 +25,11 @@
       "legend": {"clipHeight": 50},
       "scale": {"rangeMax": 1000}
     },
-    "color": {"field": "Reason", "type": "nominal", "legend": null, "scale":{"scheme": "category20b"}}
+    "color": {"field": "Reason", "type": "nominal", "legend": null, "scale":{"scheme": "category20b"}},
+    "tooltip":[
+      {"field":"Reason"},
+      {"field":"year"},
+      {"field":"Count"}
+    ]
   }
 }
