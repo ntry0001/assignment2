@@ -22,9 +22,7 @@
       "axis": {"title": "", "labelFontSize":10}
     },
     "color": {
-      "field": "EPBC",
-      "legend":false,
-      "scale":{"scheme":"greys"}
+      "field": "EPBC"
       
     },
     "tooltip":[
