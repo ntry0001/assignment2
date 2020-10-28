@@ -24,7 +24,8 @@
   },
   "color":{
     "field":"State",
-    "type":"nominal"
+    "type":"nominal",
+    "scale":{"scheme":"set1"}
   }
 },
 "layer":[
