@@ -8,9 +8,9 @@
   "mark": {
     "type": "point",
     "opacity": 0.8,
-    "stroke": "black",
+    "stroke": "green",
     "strokeWidth": 1,
-    "fill":"black"
+    "fill":"green"
   },
   "encoding": {
     "x": {
