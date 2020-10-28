@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": { "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.csv"},
-  "width": 450,
-  "height": {"step": 10},
+  "width": 350,
+  "height": {"step": 5},
   "mark": "bar",
   "autosize":{
     "type":"fit", "contains": "padding"
