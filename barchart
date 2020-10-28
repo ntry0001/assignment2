@@ -19,7 +19,7 @@
     },
     "y": {
       "field": "EPBC",
-      "axis": {"title": "", "labelFontSize":10}
+      "axis": {"title": "", "labels":false}
     },
     "color": {
       "field": "EPBC"
