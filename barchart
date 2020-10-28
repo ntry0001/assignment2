@@ -23,7 +23,8 @@
     },
     "color": {
       "field": "EPBC",
-      "legend":false
+      "legend":false,
+      "scale":{"scheme":"greys"}
       
     },
     "tooltip":[
