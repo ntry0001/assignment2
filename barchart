@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.csv"
   },
   "mark": "bar",
-  "height": 25,
+  "height": 20,
   "width":300,
   "encoding": {
     "row": {
