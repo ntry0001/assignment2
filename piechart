@@ -5,13 +5,20 @@
         "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/threatenedforestsreasonscount.json"},
   "mark": "arc",
   "width": 300,
-  "height": 300,
+  "height": 300,"selection": {
+    "reasontype": {
+      "type": "multi", "fields": ["B"], "bind": "legend"
+    }
+  },
   "encoding": {
     "theta": {"field": "C" ,"title": "Count" , "type": "quantitative"},
     "color": {"field": "B","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}, "legend":{
       "orient": "bottom", "direction": "vertical"
     }},
-    "tooltip":[{"field": "B", "title":"Type"},{"field": "C", "title":"Count"}]
+    "tooltip":[{"field": "B", "title":"Type"},{"field": "C", "title":"Count"}], "opacity": {
+      "condition": {"selection": "reasontype", "value": 1},
+      "value": 0.2
+    }
   },
   "view": {"stroke": null}
 }
