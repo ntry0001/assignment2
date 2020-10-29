@@ -1,39 +1,27 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": { "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.csv"},
-  "width": 300,
-  "height": {"step": 5},
-  "mark": "bar",
-  "autosize":{
-    "type":"fit", "contains": "padding"
+  "data": {
+    "url": "https://raw.githubusercontent.com/ntry0001/assignment2/master/ThreatenedForestsEPBCReason.csv"
   },
+  "mark": "bar",
+  "height": 25,
+  "width":300,
   "encoding": {
     "row": {
-      "field": "Reason", "type": "nominal",  "spacing": 10
+      "field": "Reason",
+      "type": "nominal",
+      "align": "all",
+      "header": {"labelAngle": 0, "labelAlign": "left", "labelAnchor": "middle"}
     },
     "x": {
-      "aggregate":"sum",
-  "field": "Count",
+      "aggregate": "sum",
+      "field": "Count",
       "title": "Count",
-      "axis": {"grid": false, "labelFontSize":10}
+      "axis": {"grid": false, "labelFontSize": 10}
     },
-    "y": {
-      "field": "EPBC",
-      "axis": {"title": "", "labels":false}
-    },
-    "color": {
-      "field": "EPBC"
-      
-    },
-    "tooltip":[
-      {"field":"Reason"},
-      {"field":"EPBC"},
-      {"field":"Count"}
-    
-    ]
+    "y": {"field": "EPBC", "axis": {"title": "", "labels": false}},
+    "color": {"field": "EPBC"},
+    "tooltip": [{"field": "Reason"}, {"field": "EPBC"}, {"field": "Count"}]
   },
-  "config": {
-    "view": {"stroke": "transparent"},
-    "axis": {"domainWidth": 1}
-  }
+  "config": {"view": {"stroke": "transparent"}}
 }
