@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "State count per year",
   "width": 400,
   "height": 350,
   "padding": 5,
@@ -37,7 +36,7 @@
   },
     "encoding" : {
       
-  "tooltip":[{"field":"State"},{"field":"year"},{"field":"Total"}],
+  "tooltip":[{"field":"State"},{"field":"year","title": "Year"},{"field":"Total"}],
   "opacity": {
       "condition": {"selection": "AusState", "value": 1},
       "value": 0.2
