@@ -29,7 +29,7 @@
     "color": {"field": "Reason", "type": "nominal", "legend": null, "scale":{"scheme": "greys"}},
     "tooltip":[
       {"field":"Reason"},
-      {"field":"year"},
+      {"field":"year", "title":"Year"},
       {"field":"Count"}
     ]
   }
