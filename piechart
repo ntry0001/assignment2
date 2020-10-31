@@ -7,15 +7,15 @@
   "width": 300,
   "height": 300,"selection": {
     "reasontype": {
-      "type": "multi", "fields": ["B"], "bind": "legend"
+      "type": "multi", "fields": ["C"], "bind": "legend"
     }
   },
   "encoding": {
-    "theta": {"field": "C" ,"title": "Count" , "type": "quantitative"},
-    "color": {"field": "B","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}, "legend":{
+    "theta": {"field": "E" ,"title": "Count" , "type": "quantitative"},
+    "color": {"field": "C","title": "Type", "type": "nominal", "scale":{"scheme": "category20b"}, "legend":{
       "orient": "bottom", "direction": "vertical"
     }},
-    "tooltip":[{"field": "B", "title":"Type"},{"field": "C", "title":"Count"}], "opacity": {
+    "tooltip":[{"field": "C", "title":"Type"},{"field": "E", "title":"Percentage", "format":".2f"}], "opacity": {
       "condition": {"selection": "reasontype", "value": 1},
       "value": 0.2
     }
