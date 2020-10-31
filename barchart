@@ -20,7 +20,9 @@
       "axis": {"grid": false, "labelFontSize": 10}
     },
     "y": {"field": "EPBC", "axis": {"title": "", "labels": false}},
-    "color": {"field": "EPBC"},
+    "color": {"field": "EPBC", "scale":{
+      "scheme":"dark2"
+    }},
     "tooltip": [{"field": "Reason"}, {"field": "EPBC"}, {"field": "Count"}]
   },
   "config": {"view": {"stroke": "transparent"}}
