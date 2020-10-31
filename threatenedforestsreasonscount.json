@@ -1,70 +1,87 @@
 [
  {
-   "B": "Type",
-   "C": "Count"
+   "C": "Type",
+   "D": "CountNotNorm",
+   "E": "Count"
  },
  {
-   "B": "Fragmentation",
-   "C": "31"
+   "C": "Fragmentation",
+   "D": "31",
+   "E": "8.959537572254336"
  },
  {
-   "B": "Small remnants",
-   "C": "6"
+   "C": "Small remnants",
+   "D": "6",
+   "E": "1.7341040462427744"
  },
  {
-   "B": "Isolation - disconnection",
-   "C": "6"
+   "C": "Isolation - disconnection",
+   "D": "6",
+   "E": "1.7341040462427744"
  },
  {
-   "B": "Disease",
-   "C": "17"
+   "C": "Disease",
+   "D": "17",
+   "E": "4.913294797687861"
  },
  {
-   "B": "Forest loss - agriculture",
-   "C": "37"
+   "C": "Forest loss - agriculture",
+   "D": "37",
+   "E": "10.69364161849711"
  },
  {
-   "B": "Forest loss - urbanisation",
-   "C": "21"
+   "C": "Forest loss - urbanisation",
+   "D": "21",
+   "E": "6.069364161849711"
  },
  {
-   "B": "Forest loss - mining",
-   "C": "6"
+   "C": "Forest loss - mining",
+   "D": "6",
+   "E": "1.7341040462427744"
  },
  {
-   "B": "Grazing pressures",
-   "C": "33"
+   "C": "Grazing pressures",
+   "D": "33",
+   "E": "9.53757225433526"
  },
  {
-   "B": "Fire pressures",
-   "C": "33"
+   "C": "Fire pressures",
+   "D": "33",
+   "E": "9.53757225433526"
  },
  {
-   "B": "Human pressure",
-   "C": "19"
+   "C": "Human pressure",
+   "D": "19",
+   "E": "5.491329479768786"
  },
  {
-   "B": "Loss in ecological function",
-   "C": "9"
+   "C": "Loss in ecological function",
+   "D": "9",
+   "E": "2.601156069364162"
  },
  {
-   "B": "Weeds",
-   "C": "38"
+   "C": "Weeds",
+   "D": "38",
+   "E": "10.982658959537572"
  },
  {
-   "B": "Feral animals",
-   "C": "28"
+   "C": "Feral animals",
+   "D": "28",
+   "E": "8.092485549132949"
  },
  {
-   "B": "Climatic effects",
-   "C": "24"
+   "C": "Climatic effects",
+   "D": "24",
+   "E": "6.9364161849710975"
  },
  {
-   "B": "Hydrological changes",
-   "C": "25"
+   "C": "Hydrological changes",
+   "D": "25",
+   "E": "7.225433526011561"
  },
  {
-   "B": "Forestry operations",
-   "C": "13"
+   "C": "Forestry operations",
+   "D": "13",
+   "E": "3.7572254335260116"
  }
 ]
