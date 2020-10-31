@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 700,
   "height": 500,
-  "title": "Endangered Forests by State",
   "projection": {"type": "equirectangular"},
   "layer": [
     {
@@ -24,7 +23,10 @@
       ],
       "mark": {"type": "geoshape"},
       "encoding": {
-        "color": {"field": "Endangered Forests", "scale":{"type":"threshold", "domain":[5,10,15,20], "scheme":"greens"}, "type": "quantitative"},
+        "color": {"field": "Endangered Forests", "scale":{"type":"threshold", "domain":[5,10,15,20], "scheme":"greens"}, "type": "quantitative",
+        "legend":{
+          "title":"Count of Endangered Forests"
+        }},
         "tooltip": [
           {
             "field": "properties.STATE_NAME",
